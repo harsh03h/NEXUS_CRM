@@ -1,0 +1,6 @@
+{
+  "name": "Nexus CRM",
+  "description": "A fully responsive, frontend-focused CRM dashboard with lead management, sales pipeline visualization, and admin controls.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
