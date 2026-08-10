@@ -93,17 +93,32 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 
 ## 📸 Screenshots
 
-- **Login / Registration View**
-  ![Login View](https://drive.google.com/file/d/1szfZs-NAVyemTOh3X0xNsf2vg34lqdeF/view?usp=drive_link)
+### 🔐 Login / Registration View
 
-- **Main Dashboard**
-  ![Dashboard](https://placehold.co/800x450.png?text=Dashboard+View)
+<p align="center">
+  <img src="images/login.png" alt="Login View" width="900">
+</p>
 
-- **Leads & Customers**
-  ![Leads View](https://placehold.co/800x450.png?text=Leads+View)
+### 📊 Main Dashboard
 
-- **Kanban Sales Pipeline**
-  ![Pipeline View](https://placehold.co/800x450.png?text=Pipeline+View)
+<p align="center">
+  <img src="images/dashboard.png" alt="Dashboard" width="900">
+</p>
 
-- **Admin Settings**
-  ![Admin View](https://placehold.co/800x450.png?text=Admin+View)
+### 👥 Leads & Customers
+
+<p align="center">
+  <img src="images/leads-customers.png" alt="Leads & Customers" width="900">
+</p>
+
+### 📌 Kanban Sales Pipeline
+
+<p align="center">
+  <img src="images/kanban-pipeline.png" alt="Kanban Pipeline" width="900">
+</p>
+
+### ⚙️ Admin Settings
+
+<p align="center">
+  <img src="images/admin-settings.png" alt="Admin Settings" width="900">
+</p>
