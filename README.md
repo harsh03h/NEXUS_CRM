@@ -94,7 +94,7 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 ## 📸 Screenshots
 
 - **Login / Registration View**
-  ![Login View](https://drive.google.com/file/d/1szfZs-NAVyemTOh3X0xNsf2vg34lqdeF/view?usp=sharing)
+  ![Login View](https://drive.google.com/file/d/1szfZs-NAVyemTOh3X0xNsf2vg34lqdeF/view?usp=drive_link)
 
 - **Main Dashboard**
   ![Dashboard](https://placehold.co/800x450.png?text=Dashboard+View)
