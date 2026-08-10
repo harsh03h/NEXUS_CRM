@@ -93,8 +93,6 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here)*
-
 - **Login / Registration View**
   ![Login View](https://placehold.co/800x450.png?text=Login+View)
 
