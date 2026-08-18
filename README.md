@@ -101,7 +101,7 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 ### 🔐 Login / Registration View
 
 <p align="center">
-  <img src="images/login.png" alt="Login View" width="900">
+  <img src="login.png" alt="Login View" width="900">
 </p>
 
 ### 📊 Main Dashboard
