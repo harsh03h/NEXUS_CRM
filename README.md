@@ -125,5 +125,5 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 ### ⚙️ Admin Settings
 
 <p align="center">
-  <img src="images/admin-settings.png" alt="Admin Settings" width="900">
+  <img src="Admin Settings.png" alt="Admin Settings" width="900">
 </p>
