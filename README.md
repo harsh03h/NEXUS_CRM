@@ -107,7 +107,7 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 ### 📊 Main Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Dashboard" width="900">
+  <img src="Main Dashboard.png" alt="Dashboard" width="900">
 </p>
 
 ### 👥 Leads & Customers
