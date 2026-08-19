@@ -119,7 +119,7 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 ### 📌 Kanban Sales Pipeline
 
 <p align="center">
-  <img src="images/kanban-pipeline.png" alt="Kanban Pipeline" width="900">
+  <img src="Kanban Sales Pipeline.png" alt="Kanban Pipeline" width="900">
 </p>
 
 ### ⚙️ Admin Settings
