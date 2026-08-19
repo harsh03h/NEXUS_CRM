@@ -113,7 +113,7 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 ### 👥 Leads & Customers
 
 <p align="center">
-  <img src="images/leads-customers.png" alt="Leads & Customers" width="900">
+  <img src="Leads& Customers.png" alt="Leads & Customers" width="900">
 </p>
 
 ### 📌 Kanban Sales Pipeline
