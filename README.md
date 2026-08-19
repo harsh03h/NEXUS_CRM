@@ -92,7 +92,11 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
    ```
 ## 🎥 Project Demo
 
-[![NEXUS CRM Demo](images/demo%20login.png)](https://drive.google.com/file/d/1Du_xc2OZs4anKK1F1AvpfF0_0e2-cqsW/view?usp=drive_link)
+<p align="center"> <a href="https://drive.google.com/file/d/1Du_xc2OZs4anKK1F1AvpfF0_0e2-cqsW/view?usp=drive_link"> <img src="demo%20login.png" alt="NEXUS CRM Demo" width="850"> </a> </p>
+
+<p align="center"> <b>🚀 Watch NEXUS CRM in action</b> <br> Explore the dashboard, leads & customers, Kanban sales pipeline, and admin features. </p>
+
+<p align="center"> <a href="https://drive.google.com/file/d/1Du_xc2OZs4anKK1F1AvpfF0_0e2-cqsW/view?usp=drive_link"> ▶️ <b>Watch Full Demo</b> </a> </p>
 
 > Click the image above to watch the full project demo.
 
