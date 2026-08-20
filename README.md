@@ -98,6 +98,10 @@ A modern, responsive Customer Relationship Management (CRM) dashboard built with
 
 <p align="center"> <a href="https://drive.google.com/file/d/1Du_xc2OZs4anKK1F1AvpfF0_0e2-cqsW/view?usp=drive_link"> ▶️ <b>Watch Full Demo</b> </a> </p>
 
+<p align="center">
+  👉 <a href="https://nexus-crm-sepia.vercel.app/"><b>Open NEXUS CRM</b></a> 👈
+</p>
+
 ## 📸 Screenshots
 
 ### 🔐 Login / Registration View
